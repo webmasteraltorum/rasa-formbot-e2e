@@ -1,0 +1,24 @@
+2019-07-30 13:47:09,130 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-07-30 14:01:08,017 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-07-30 14:01:13,758 [WARNI]  Could not parse timestamp d1c852ea48d04296ad934f418e318ced. Instead current UTC time will be passed to duckling. Error: invalid literal for int() with base 10: 'd1c852ea48d04296ad934f418e318ced'
+2019-07-30 14:01:20,698 [WARNI]  Could not parse timestamp 23f2ee1996e34ecf82d3a363152e6a31. Instead current UTC time will be passed to duckling. Error: invalid literal for int() with base 10: '23f2ee1996e34ecf82d3a363152e6a31'
+2019-07-30 14:01:29,417 [WARNI]  Could not parse timestamp 0652cdafa8f248489b43b98fbce5310d. Instead current UTC time will be passed to duckling. Error: invalid literal for int() with base 10: '0652cdafa8f248489b43b98fbce5310d'
+2019-07-30 14:01:31,446 [WARNI]  Could not parse timestamp a8f28aa1d57d47df94746cf941bfc54e. Instead current UTC time will be passed to duckling. Error: invalid literal for int() with base 10: 'a8f28aa1d57d47df94746cf941bfc54e'
+2019-07-30 14:01:33,260 [WARNI]  Could not parse timestamp 1520b7a253bd40fd9a098f94d25c04d0. Instead current UTC time will be passed to duckling. Error: invalid literal for int() with base 10: '1520b7a253bd40fd9a098f94d25c04d0'
+2019-07-30 14:01:35,616 [WARNI]  Could not parse timestamp 0e6871b52eb144609836afc8e71937ac. Instead current UTC time will be passed to duckling. Error: invalid literal for int() with base 10: '0e6871b52eb144609836afc8e71937ac'
+2019-07-30 14:01:37,923 [WARNI]  Could not parse timestamp fe7a1b920b8e46cead8589109d87124e. Instead current UTC time will be passed to duckling. Error: invalid literal for int() with base 10: 'fe7a1b920b8e46cead8589109d87124e'
+2019-07-30 14:01:40,740 [WARNI]  Could not parse timestamp 0e0a36bd05bd481cb1e732c837d39e26. Instead current UTC time will be passed to duckling. Error: invalid literal for int() with base 10: '0e0a36bd05bd481cb1e732c837d39e26'
+2019-07-30 14:01:46,310 [WARNI]  Could not parse timestamp 9665a92126fc4c4ca17e18559c2f0a2b. Instead current UTC time will be passed to duckling. Error: invalid literal for int() with base 10: '9665a92126fc4c4ca17e18559c2f0a2b'
+2019-07-30 14:01:47,985 [WARNI]  Could not parse timestamp 36fdda981fe4402e856c26e5033918de. Instead current UTC time will be passed to duckling. Error: invalid literal for int() with base 10: '36fdda981fe4402e856c26e5033918de'
+2019-07-30 14:02:47,889 [WARNI]  Could not parse timestamp a53211c8615c4a21aa8715740a3e90a5. Instead current UTC time will be passed to duckling. Error: invalid literal for int() with base 10: 'a53211c8615c4a21aa8715740a3e90a5'
+2019-07-30 14:02:52,235 [WARNI]  Could not parse timestamp c69069d69c7049608089ef2e8063fc9a. Instead current UTC time will be passed to duckling. Error: invalid literal for int() with base 10: 'c69069d69c7049608089ef2e8063fc9a'
+2019-07-30 14:02:55,140 [WARNI]  Could not parse timestamp 84f496342eaf47009b32c893ac34fc7f. Instead current UTC time will be passed to duckling. Error: invalid literal for int() with base 10: '84f496342eaf47009b32c893ac34fc7f'
+2019-07-30 14:02:56,894 [WARNI]  Could not parse timestamp 6f0e34318ec44798934c9e3bc5671102. Instead current UTC time will be passed to duckling. Error: invalid literal for int() with base 10: '6f0e34318ec44798934c9e3bc5671102'
+2019-07-30 14:03:12,846 [WARNI]  Could not parse timestamp 605a11c5160546ac9e0f9662b8656cdd. Instead current UTC time will be passed to duckling. Error: invalid literal for int() with base 10: '605a11c5160546ac9e0f9662b8656cdd'
+2019-07-30 14:03:17,093 [WARNI]  Could not parse timestamp 44da084904b74dc0a48a16af15ad03ba. Instead current UTC time will be passed to duckling. Error: invalid literal for int() with base 10: '44da084904b74dc0a48a16af15ad03ba'
+2019-07-30 14:03:20,045 [WARNI]  Could not parse timestamp 30064926fa0a43d59cbe0b932d4d1a26. Instead current UTC time will be passed to duckling. Error: invalid literal for int() with base 10: '30064926fa0a43d59cbe0b932d4d1a26'
+2019-07-30 14:03:22,947 [INFO ]  Killing Sanic server now.
+2019-07-30 14:03:31,096 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-07-30 14:03:34,432 [WARNI]  Could not parse timestamp 5b0f935a69714677b5cbda1f383a5edf. Instead current UTC time will be passed to duckling. Error: invalid literal for int() with base 10: '5b0f935a69714677b5cbda1f383a5edf'
+2019-07-30 14:03:43,655 [WARNI]  Could not parse timestamp c9393596d7394631b88c46af17e06097. Instead current UTC time will be passed to duckling. Error: invalid literal for int() with base 10: 'c9393596d7394631b88c46af17e06097'
+2019-07-30 14:04:09,756 [INFO ]  Killing Sanic server now.
