@@ -1,9 +1,11 @@
 # -*- coding: utf-8 -*-
 from typing import Dict, Text, Any, List, Union, Optional
 
-from rasa_sdk import Tracker
+from rasa_sdk import Action, Tracker
 from rasa_sdk.executor import CollectingDispatcher
 from rasa_sdk.forms import FormAction
+from rasa_sdk.events import SlotSet
+
 
 
 class RestaurantForm(FormAction):
@@ -144,3 +146,14 @@ class RestaurantForm(FormAction):
         # utter submit template
         dispatcher.utter_template("utter_submit", tracker)
         return []
+
+class CustomThankYou(Action):
+    def name(self):
+        return "action_custom_thank_you"
+
+    def run(
+        self, dispatcher: CollectingDispatcher, tracker: Tracker, domain: dict
+    ) -> List[SlotSet]:
+        # name = "Mike"
+        # dispatcher.utter_message(f"Thank you, {name}")    
+        return [SlotSet("name", "Mike")]

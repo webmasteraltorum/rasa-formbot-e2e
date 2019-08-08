@@ -35,6 +35,8 @@ slots:
     auto_fill: false
   requested_slot:
     type: unfeaturized
+  name:
+    type: unfeaturized
 
 templates:
   utter_ask_cuisine:
@@ -71,7 +73,7 @@ templates:
   utter_default:
     - text: "sorry, I didn't understand you, please try input something else"
   utter_greet:
-    - text: "Hello! I am restaurant search assistant! How can I help?"
+    - text: "Hello {name}! I am restaurant search assistant! How can I help?"
 
 actions:
   - utter_slots_values
@@ -79,6 +81,6 @@ actions:
   - utter_chitchat
   - utter_ask_continue
   - utter_greet
-
+  - action_custom_thank_you
 forms:
   - restaurant_form

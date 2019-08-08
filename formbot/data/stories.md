@@ -1,5 +1,6 @@
 ## happy path
 * greet
+    - action_custom_thank_you
     - utter_greet
 * request_restaurant
     - restaurant_form

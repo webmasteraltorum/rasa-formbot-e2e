@@ -22,3 +22,32 @@
 2019-07-30 14:03:34,432 [WARNI]  Could not parse timestamp 5b0f935a69714677b5cbda1f383a5edf. Instead current UTC time will be passed to duckling. Error: invalid literal for int() with base 10: '5b0f935a69714677b5cbda1f383a5edf'
 2019-07-30 14:03:43,655 [WARNI]  Could not parse timestamp c9393596d7394631b88c46af17e06097. Instead current UTC time will be passed to duckling. Error: invalid literal for int() with base 10: 'c9393596d7394631b88c46af17e06097'
 2019-07-30 14:04:09,756 [INFO ]  Killing Sanic server now.
+2019-08-02 14:02:25,047 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-08-02 14:02:29,438 [WARNI]  Could not parse timestamp 76917c91e75549cfa8f37f6e09ef0763. Instead current UTC time will be passed to duckling. Error: invalid literal for int() with base 10: '76917c91e75549cfa8f37f6e09ef0763'
+2019-08-02 14:02:29,444 [ERROR]  Failed to connect to duckling http server. Make sure the duckling server is running and the proper host and port are set in the configuration. More information on how to run the server can be found on github: https://github.com/facebook/duckling#quickstart Error: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /parse (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x130fc01d0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2019-08-02 14:02:43,005 [WARNI]  Could not parse timestamp 1a5f61602e8040e39fb068b4f4558964. Instead current UTC time will be passed to duckling. Error: invalid literal for int() with base 10: '1a5f61602e8040e39fb068b4f4558964'
+2019-08-02 14:02:43,009 [ERROR]  Failed to connect to duckling http server. Make sure the duckling server is running and the proper host and port are set in the configuration. More information on how to run the server can be found on github: https://github.com/facebook/duckling#quickstart Error: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /parse (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x131152c50>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2019-08-02 14:02:43,012 [ERROR]  Failed to run custom action 'restaurant_form'. Couldn't connect to the server at 'http://localhost:5055/webhook'. Is the server running? Error: Cannot connect to host localhost:5055 ssl:None [Connection refused]
+2019-08-02 14:02:43,012 [ERROR]  Encountered an exception while running action 'restaurant_form'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+2019-08-02 14:03:06,412 [WARNI]  Could not parse timestamp 120943d1135d4638af4ed1eb1ab96aa5. Instead current UTC time will be passed to duckling. Error: invalid literal for int() with base 10: '120943d1135d4638af4ed1eb1ab96aa5'
+2019-08-02 14:03:06,416 [ERROR]  Failed to connect to duckling http server. Make sure the duckling server is running and the proper host and port are set in the configuration. More information on how to run the server can be found on github: https://github.com/facebook/duckling#quickstart Error: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /parse (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1310c2128>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2019-08-02 14:04:16,569 [INFO ]  Killing Sanic server now.
+2019-08-02 14:04:28,527 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-08-02 14:04:31,338 [WARNI]  Could not parse timestamp 71ca1cb9b49941cea962fe112a180425. Instead current UTC time will be passed to duckling. Error: invalid literal for int() with base 10: '71ca1cb9b49941cea962fe112a180425'
+2019-08-02 14:04:39,163 [WARNI]  Could not parse timestamp 1f4fd3f71d8440bc9893b089d2383529. Instead current UTC time will be passed to duckling. Error: invalid literal for int() with base 10: '1f4fd3f71d8440bc9893b089d2383529'
+2019-08-02 14:04:39,174 [ERROR]  Failed to run custom action 'restaurant_form'. Couldn't connect to the server at 'http://localhost:5055/webhook'. Is the server running? Error: Cannot connect to host localhost:5055 ssl:None [Connection refused]
+2019-08-02 14:04:39,174 [ERROR]  Encountered an exception while running action 'restaurant_form'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+2019-08-02 14:08:16,098 [INFO ]  Killing Sanic server now.
+2019-08-08 11:03:31,727 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-08-08 11:04:30,226 [INFO ]  Killing Sanic server now.
+2019-08-08 11:04:45,792 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-08-08 11:05:50,347 [INFO ]  Killing Sanic server now.
+2019-08-08 11:10:06,095 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-08-08 11:10:08,659 [WARNI]  Could not parse timestamp c18bcffa51c94a5cb117724c49f240d9. Instead current UTC time will be passed to duckling. Error: invalid literal for int() with base 10: 'c18bcffa51c94a5cb117724c49f240d9'
+2019-08-08 11:10:26,204 [WARNI]  Could not parse timestamp 6902105499354e118bef9bacd8ed816a. Instead current UTC time will be passed to duckling. Error: invalid literal for int() with base 10: '6902105499354e118bef9bacd8ed816a'
+2019-08-08 11:11:23,273 [INFO ]  Killing Sanic server now.
+2019-08-08 11:11:35,021 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-08-08 11:11:41,059 [WARNI]  Could not parse timestamp c789774fa04a4db1bed6172f3a4b5127. Instead current UTC time will be passed to duckling. Error: invalid literal for int() with base 10: 'c789774fa04a4db1bed6172f3a4b5127'
+2019-08-08 11:12:41,137 [INFO ]  Killing Sanic server now.
+2019-08-08 11:13:47,670 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-08-08 11:13:47,699 [WARNI]  No local NLU model '/var/folders/6r/xp2sqy957vqb7rpynpmh55k80000gn/T/tmpyj8gs3f6/nlu' found. Using RegexInterpreter instead.

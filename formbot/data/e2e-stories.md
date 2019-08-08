@@ -8,11 +8,11 @@
     - restaurant_form
 * inform: {"num_people": "5"}
     - restaurant_form
-* inform: {"outdoor_seating": "false"}: No.
+* deny: {"outdoor_seating": "false"}: No.
     - restaurant_form
-* deny: {"preferences": "no additional preferences"}
+* deny: {"preferences": "no additional preferences"}: No.
     - restaurant_form
-* deny: {"feedback": "no feedback"}
+* deny: {"feedback": "no feedback"}: no feedback
     - restaurant_form
     - form{"name": null}
     - utter_slots_values
